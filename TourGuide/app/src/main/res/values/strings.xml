@@ -1,0 +1,19 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category name for clubs/bars [CHAR LIMIT=20] -->
+    <string name="category_clubs">Clubs/Bars</string>
+
+    <!-- Category name for the vocabulary words for food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary words for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for range [CHAR LIMIT=20] -->
+    <string name="category_range">Range</string>
+
+    <!-- Category name for the city -->
+    <string name="city">Jacksonville</string>
+</resources>
